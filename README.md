@@ -54,6 +54,6 @@ In you want to run the lambda functions from the AWS console you will need to en
 
 {
     "httpMethod": "POST",
-    "body": "{\"email\": \"daveypoo@har.com\", \"username\": \"DaveFromWoking123\",\"password\": \"London01\",\"password2\": \"London01\",\"type\": \"1\"}"
+    "body": "{\"email\": \"dave@har.com\", \"username\": \"DaveFromWoking123\",\"password\": \"London01\",\"password2\": \"London01\",\"type\": \"1\"}"
 }
 
